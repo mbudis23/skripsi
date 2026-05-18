@@ -1,0 +1,7 @@
+ipykernel
+pandas
+matplotlib
+scipy
+gym
+sb3-contrib
+scikit-learn
