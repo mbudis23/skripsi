@@ -5,3 +5,4 @@ scipy
 gym
 sb3-contrib
 scikit-learn
+pyspark
